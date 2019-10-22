@@ -1,0 +1,22 @@
+body {
+    color: lightsalmon;
+  }
+
+.navbar {
+    padding 1rem;
+    background-color: orange;
+}  
+
+.btn-primary:hover {
+    background-color: peachpuff;
+    color: darksalmon;
+  }
+
+.hero-background-img {
+  background-image: url("karsten-wurth-karsten-wuerth-jS0zC2PJ17A-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:200px;
+  padding-bottom:200px;
+}
